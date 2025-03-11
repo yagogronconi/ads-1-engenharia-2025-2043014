@@ -2,7 +2,9 @@
 # 📚 Diário de Engenharia de Software - {Nome do Aluno}
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
-(Escreva aqui um breve resumo sobre a importância das metodologias no desenvolvimento de software.)
+* Conjunto de técnicas e métodos de organização utilizados para criar soluções de softwares com o objetivo de organizar equipes de trabalho
+  para desenvolverem as funções de um programa da melhor maneira possível.Possibilita escolher o melhor caminho para a praticidade, tornando
+  o caminho mais científico, 
 
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
