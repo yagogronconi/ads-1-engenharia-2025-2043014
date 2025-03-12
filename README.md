@@ -45,12 +45,14 @@ do software.
 em perfeitas condições.
 
 ## 🚀 Extreme Programming (XP)  
-Os princípios do XP (Extreme Programming) são baseados em 5 valores fundamentais: **Comunicação, Simplicidade, Feedback, Coragem, Respeito**. 
+* Os princípios do XP (Extreme Programming) são baseados em 5 valores fundamentais: **Comunicação, Simplicidade, Feedback, Coragem, Respeito**. 
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
-
+* O **GitHub** fornece aos desenvolvedores ferramentas para enviar um código melhor por meio das funcionalidades de linha de comando, problemas (discussões encadeadas), entre outros.
+* O **GitLab** apoia as equipes em todas as etapas, desde a codificação e testes até a segurança, documentação e governança. A IA ajuda os desenvolvedores com todas as tarefas de desenvolvimento e implementação de software.
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+* O **Jira** é utilizado para criar quadros do Scrum e Kanban para gerenciar tarefas, oferecendo relatórios de desempenho em tempo real, permitindo visualizar o status de cada item de trabalho, criar permissões de sprint para delegar responsabilidades,
+ capturar informações detalhadas sobre tarefas, entre outros.
+* O **Trello** possui quase a mesma funcionalidade que o Kanban, permitindo organizar e monitorar atividades, criar espaços para cada tarefa, ideia ou responsabilidade e manter a organização e a eficiência.
 
