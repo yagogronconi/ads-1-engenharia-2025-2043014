@@ -1,5 +1,5 @@
 # ads-1-engenharia-2025-2043014
-# 📚 Diário de Engenharia de Software - {Nome do Aluno}
+# 📚 Diário de Engenharia de Software - Yago Gonçalves Ronconi
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
 * Conjunto de técnicas e métodos de organização utilizados para criar soluções de softwares com o objetivo de organizar equipes de trabalho
