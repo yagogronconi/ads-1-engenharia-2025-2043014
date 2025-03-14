@@ -16,7 +16,8 @@ desenvolvimento, testes e implantação.
 * O modelo espiral consiste em um processo de desenvolvimento de software dividido em 4 quadrantes: planejamento, análise de risco, engenharia e avaliação, sendo que cada 
 uma delas representa um ciclo de atividades que se repetem até que o produto de software atenda todos os requisitos das partes interessadas.
 
-## 💪 Metodologias Ágeis  
+## 💪 Metodologias Ágeis
+* As Metodologias ágeis são conjuntos de práticas que visam **acelerar** e **aumentar** a eficiência de um projeto, desde seu processo de desenvolvimento até a entrega do produto final. Elas permitem uma resposta rápida às necessidades do cliente, facilitando ajustes ao longo do ciclo do projeto.
 ### 📖 Manifesto Ágil  
 * O objetivo do Manifesto Ágil é orientar as equipes de trabalho, onde todos conseguem entrar em um consenso e conseguir realizar todos os objetivos, tarefas, ações e requisitos dos organizadores
 de um projeto de desenvolvimento de software.
@@ -41,18 +42,21 @@ do software.
 * **Restrospective**: A equipe reflete sobre o último sprint e identifica pontos de melhoria para aperfeiçoar seu projeto.
 
 ## 🎯 Kanban  
-* O Kanban é utilizado para organizar e equilibrar o trabalho da equipe. Ele funciona como um quadro onde cada etapa concluída de uma tarefa, a mesma se mexe para a direita até chegar na última lacuna, onde a tarefa foi finalizada, entregue e funcionando
-em perfeitas condições.
+* O Kanban é utilizado para organizar e equilibrar o trabalho da equipe. Ele funciona como um quadro onde cada etapa concluída de uma tarefa, a mesma se mexe para a direita até chegar na última lacuna, onde a tarefa foi finalizada, entregue e funcionandoem perfeitas condições.
 
 ## 🚀 Extreme Programming (XP)  
-* Os princípios do XP (Extreme Programming) são baseados em 5 valores fundamentais: **Comunicação, Simplicidade, Feedback, Coragem, Respeito**. 
+* Os princípios do XP (Extreme Programming) são baseados em 5 valores fundamentais:
+* **Comunicação**: fundamental para o progresso. Sem comunicação, o projeto não consegue ir pra frente.
+* **Simplicidade**: evitar complexidade e fazer apenas o que for necessário para o projeto.
+* **Feedback**: buscar melhorias e não a perfeição. Receber opiniões do(s) cliente(s) para melhorar o projeto.
+* **Coragem**: falar a verdade, mesmo que seja desagradável, para aumentar a confiança e melhorar o trabalho em equipe.
+* **Respeito**: os membros da equipe devem se preocupar uns com os outros e com o que estão fazendo para entregar o produto com a melhor qualidade possível.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
 * O **GitHub** fornece aos desenvolvedores ferramentas para enviar um código melhor por meio das funcionalidades de linha de comando, problemas (discussões encadeadas), entre outros.
 * O **GitLab** apoia as equipes em todas as etapas, desde a codificação e testes até a segurança, documentação e governança. A IA ajuda os desenvolvedores com todas as tarefas de desenvolvimento e implementação de software.
 ### 🎮 Jira / Trello  
-* O **Jira** é utilizado para criar quadros do Scrum e Kanban para gerenciar tarefas, oferecendo relatórios de desempenho em tempo real, permitindo visualizar o status de cada item de trabalho, criar permissões de sprint para delegar responsabilidades,
- capturar informações detalhadas sobre tarefas, entre outros.
+* O **Jira** é utilizado para criar quadros do Scrum e Kanban para gerenciar tarefas, oferecendo relatórios de desempenho em tempo real, permitindo visualizar o status de cada item de trabalho, criar permissões de sprint para delegar responsabilidades,capturar informações detalhadas sobre tarefas, entre outros.
 * O **Trello** possui quase a mesma funcionalidade que o Kanban, permitindo organizar e monitorar atividades, criar espaços para cada tarefa, ideia ou responsabilidade e manter a organização e a eficiência.
 
