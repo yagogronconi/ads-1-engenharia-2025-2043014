@@ -31,7 +31,7 @@ de um projeto de desenvolvimento de software.
 ## 🏆 Scrum 
 * O Scrum é uma metodologia ágil de gestão de projetos que ajuda equipes a trabalharem em conjunto para atingir um objetivo com mais rapidez.
 ### 📅 Sprints  
-* Um Sprint é um período curto e fixo em que uma equipe scrum trabalha para concluir uma quantidade definida de trabalho. Ele é utilizado para trbalhar com mais agilidade e ter menos dor de cabeça na hora do desenvolvimento
+* Um Sprint é um período curto e fixo em que uma equipe scrum trabalha para concluir uma quantidade definida de trabalho. Ele é utilizado para trabalhar com mais agilidade e ter menos dor de cabeça na hora do desenvolvimento
 do software.
 
 ### 💬 Cerimônias  
@@ -42,7 +42,7 @@ do software.
 * **Restrospective**: A equipe reflete sobre o último sprint e identifica pontos de melhoria para aperfeiçoar seu projeto.
 
 ## 🎯 Kanban  
-* O Kanban é utilizado para organizar e equilibrar o trabalho da equipe. Ele funciona como um quadro onde cada etapa concluída de uma tarefa, a mesma se mexe para a direita até chegar na última lacuna, onde a tarefa foi finalizada, entregue e funcionandoem perfeitas condições.
+* O Kanban é utilizado para organizar e equilibrar o trabalho da equipe. Ele funciona como um quadro onde cada etapa concluída de uma tarefa, a mesma se mexe para a direita até chegar na última lacuna, onde a tarefa foi finalizada, entregue e funcionando em perfeitas condições.
 
 ## 🚀 Extreme Programming (XP)  
 * Os princípios do XP (Extreme Programming) são baseados em 5 valores fundamentais:
